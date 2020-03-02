@@ -82,6 +82,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\ajuda.chm" />
     <None Include="Resources\Ipod 123.jpg" />
   </ItemGroup>
   <ItemGroup>

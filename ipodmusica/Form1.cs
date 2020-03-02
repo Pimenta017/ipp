@@ -277,7 +277,16 @@ namespace ipodmusica
                     break;
                 }
             }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
         }
+        private void button4_Click_2(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "C:\\Users\\prive\\source\\repos\\ipodmusica\\ipodmusica\\Resources\\ajuda.chm");
+        }
+    }
     }
 
 
