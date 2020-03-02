@@ -1,0 +1,9 @@
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\bin\Debug\ipodmusica.exe.config
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\bin\Debug\ipodmusica.exe
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\bin\Debug\ipodmusica.pdb
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\obj\Debug\ipodmusica.csprojAssemblyReference.cache
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\obj\Debug\ipodmusica.Form1.resources
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\obj\Debug\ipodmusica.Properties.Resources.resources
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\obj\Debug\ipodmusica.csproj.GenerateResource.cache
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\obj\Debug\ipodmusica.exe
+C:\Users\prive\source\repos\ipodmusica\ipodmusica\obj\Debug\ipodmusica.pdb
